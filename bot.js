@@ -12,7 +12,7 @@ var jimp = require('jimp')
 const adminprefix = ".";
 const devs = ['336606008069849088' , '427946202890240023' , '171259176029257728' , '343383616895713290'];
 const Music = require('discord.js-musicbot-addon');
-client.login("NDE5ODE5NzUxNDY5MDg4NzY5.DZhKQQ.vISFM_BdGjt2TCGLwrFJOYvvgc8");
+client.login();
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 client.once('ready', ()  => {
